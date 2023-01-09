@@ -1,5 +1,9 @@
 Client Code Main
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+client - develop branch
+>>>>>>> 0236e2b3920d8317a718ba37fa02376b9c523018
 # AEM WKND Sites Project
 
 ![Maven CI](https://github.com/adobe/aem-guides-wknd/actions/workflows/maven.yml/badge.svg)
