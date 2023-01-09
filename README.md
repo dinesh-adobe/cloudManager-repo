@@ -1,4 +1,12 @@
+
 New changes has been added in client develop Repo 
+
+Client Code Main
+
+client - develop branch
+
+# AEM WKND Sites Project
+
 
 ![Maven CI](https://github.com/adobe/aem-guides-wknd/actions/workflows/maven.yml/badge.svg)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.adobe.aem.guides/aem-guides-wknd/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.adobe.aem.guides/aem-guides-wknd)
@@ -86,7 +94,4 @@ With Adobe Stock, you have access to more than 140 million high-quality, royalty
 
 * This project was generated using the [AEM Project Archetype](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/developing/archetype/overview.html).
 * This project relies on [AEM Core Components](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html).
-=======
-# cloudManager-repo
-Cloud manager Repository 
->>>>>>> cbc304f68eaf6d1d7a857ad1c62daa889444ec1c
+
